@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/dvera/Development/E-Books/RayWenderlich/RxSwift_Reactive_Programming_with_Swift_v3.0/02-observable-pg/starter/RxPlayground/@sesameeels666.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Libs/RxSwift/Rx.xcodeproj">
+   </FileRef>
+</Workspace>
